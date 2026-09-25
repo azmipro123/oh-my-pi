@@ -1,4 +1,4 @@
-data <p align="center">
+main <p align="center">
   <img src="https://github.com/can1357/oh-my-pi/blob/main/assets/hero.png?raw=true" alt="omp">
 </p>
 
